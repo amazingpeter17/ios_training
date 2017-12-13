@@ -1,5 +1,5 @@
 # ios_training
 My iOS coding journey
 
-authur: Peter Wang
+Authur: Peter Wang
 Mentor:  William
